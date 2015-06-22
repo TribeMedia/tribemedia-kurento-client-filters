@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "TribeMedia/kurento-client-filters"
+    "url": "TribeMedia/tribemedia-kurento-client-filters"
   },
   "keywords": [
     "Kurento",
